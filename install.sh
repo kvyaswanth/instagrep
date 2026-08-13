@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # One-line installer for `instagrep`.
 #
-#   curl -fsSL https://raw.githubusercontent.com/kvyaswanth/instagrep/main/install.sh | sh
+#   curl -fsSL https://raw.githubusercontent.com/kvyaswanth/instagrep/master/install.sh | sh
 #
 # Downloads a prebuilt binary from GitHub Releases for your platform, falling
 # back to `cargo install` from source if no binary is available.

@@ -18,7 +18,7 @@ only those candidates with a byte regex.
 
 ```bash
 # one line (prebuilt binary, falls back to cargo install)
-curl -fsSL https://raw.githubusercontent.com/kvyaswanth/instagrep/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/kvyaswanth/instagrep/master/install.sh | sh
 
 # or build from source with cargo
 cargo install --git https://github.com/kvyaswanth/instagrep --locked
